@@ -35,3 +35,5 @@ if uploaded_file is not None:
         st.write("sandstorm,沙暴")
     else:
         st.write("snow,雪")
+
+st.text("类:露 ","雾霾 ","霜 ","釉 ","冰雹 ", "闪电 ","雨 ","彩虹 ","雾凇 ","沙暴 ","雪 ")
